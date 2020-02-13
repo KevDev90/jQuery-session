@@ -17,4 +17,5 @@ $(document).ready(function() {
   console.log($(":checked").attr('id'))
   $('p label').addClass('purple')
   $('#clear-btn').addClass('red')
+
 })

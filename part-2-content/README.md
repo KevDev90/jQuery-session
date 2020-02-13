@@ -32,6 +32,7 @@ jQuery provides methods that shorten up most Vanilla JS DOM operations. Let's lo
 
 ## Questions:
 1. How do you get the text from an element (like a paragraph) with jQuery?
+$('p').text();
 2. How do you set the text of an element?
 3. How do you get the html inside of an element in jQuery? How would you do this in Vanilla JS?
 4. How do you get the text / content from an input?
